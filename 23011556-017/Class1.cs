@@ -10,7 +10,7 @@ namespace evenodd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ete be");
+            Console.WriteLine("enter number");
             int num = Convert.ToInt32(Console.ReadLine());
             if (num % 2 == 0)
             {
