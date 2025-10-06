@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _23011556_017
 {
-    internal class Program
+    internal class Class8
     {
         public void maxmin()
         {
