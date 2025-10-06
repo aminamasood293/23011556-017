@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace rev
+namespace _23011556_017
 {
     internal class Class7
     {
