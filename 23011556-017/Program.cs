@@ -28,6 +28,10 @@ namespace _23011556_017
             Console.WriteLine("\n\t\tQuestion4");
             Class4 obj4 = new Class4();
             obj4.series_sum();
+            //no5
+            Console.WriteLine("\n\t\tQuestion5");
+            Class5 obj5 = new Class5();
+            obj5.table();
 
         }
     }
