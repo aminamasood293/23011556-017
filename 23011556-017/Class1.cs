@@ -8,7 +8,9 @@ namespace evenodd
 {
     internal class Class1
     {
-        static void Main(string[] args)
+        // static void Main(string[] args)
+        //{
+        public void eo()
         {
             Console.WriteLine("enter number");
             int num = Convert.ToInt32(Console.ReadLine());
@@ -21,5 +23,6 @@ namespace evenodd
                 Console.WriteLine("The number is odd");
             }
         }
+        //}
     }
 }
