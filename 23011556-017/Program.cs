@@ -8,9 +8,6 @@ namespace _23011556_017
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-
-        }
+        
     }
 }
